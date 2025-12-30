@@ -1,3 +1,6 @@
+## Dashboard preview
+![Dashboard_preview](Dashboard_preview.png)
+
 # Sales Performance Dashboard (Excel + VBA)
 
 ## Objective
